@@ -16,7 +16,7 @@ const UseCallback = (props) => {
         <div className="UseCallback">
             <PageTitle
                 title="Hook UseCallback"
-                subtitle="Retorna uma função memoizada!"
+                subtitle="Retorna uma função memorizada!"
             />
             <SectionTitle title="Exercício #01"></SectionTitle>
             <div className="center">
